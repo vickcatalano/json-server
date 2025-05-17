@@ -1,0 +1,141 @@
+[{
+    "bookingid": 1,
+    "booking": {
+        "firstname": "Jim",
+        "lastname": "Brown",
+        "totalprice": 111,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": "Breakfast"
+    }
+},
+{
+    "bookingid": 2,
+    "booking": {
+        "firstname": "John",
+        "lastname": "Doe",
+        "totalprice": 222,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2019-01-01",
+            "checkout": "2020-01-01"
+        },
+        "additionalneeds": "Lunch"
+    }
+},
+{
+    "bookingid": 3,
+    "booking": {
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "totalprice": 333,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2020-01-01",
+            "checkout": "2021-01-01"
+        },
+        "additionalneeds": "Dinner"
+    }
+},
+{
+    "bookingid": 4,
+    "booking": {
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "totalprice": 444,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2021-01-01",
+            "checkout": "2022-01-01"
+        },
+        "additionalneeds": "Snacks"
+    }
+},
+{
+    "bookingid": 5,
+    "booking": {
+        "firstname": "Bob",
+        "lastname": "Williams",
+        "totalprice": 555,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2022-01-01",
+            "checkout": "2023-01-01"
+        },
+        "additionalneeds": "Drinks"
+    }
+},
+{
+    "bookingid": 6,
+    "booking": {
+        "firstname": "Charlie",
+        "lastname": "Brown",
+        "totalprice": 666,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2023-01-01",
+            "checkout": "2024-01-01"
+        },
+        "additionalneeds": "WiFi"
+    }
+},
+{
+    "bookingid": 7,
+    "booking": {
+        "firstname": "David",
+        "lastname": "Wilson",
+        "totalprice": 777,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-01-01",
+            "checkout": "2025-01-01"
+        },
+        "additionalneeds": "Parking"
+    }
+},
+{
+    "bookingid": 8,
+    "booking": {
+        "firstname": "Eve",
+        "lastname": "Davis",
+        "totalprice": 888,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-01-01",
+            "checkout": "2026-01-01"
+        },
+        "additionalneeds": "Gym"
+    }
+},
+{
+    "bookingid": 9,
+    "booking": {
+        "firstname": "Frank",
+        "lastname": "Garcia",
+        "totalprice": 999,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-01-01",
+            "checkout": "2027-01-01"
+        },
+        "additionalneeds": "Spa"
+    }
+},
+{
+    "bookingid": 10,
+    "booking": {
+        "firstname": "Grace",
+        "lastname": "Martinez",
+        "totalprice": 1010,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2027-01-01",
+            "checkout": "2028-01-01"
+        },
+        "additionalneeds": "Pool"
+    }
+}
+]
