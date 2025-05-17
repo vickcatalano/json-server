@@ -1,7 +1,7 @@
 {
     "bookings": [
         {
-            "bookingid": 1,
+            "id": 1,
             "booking": {
                 "firstname": "Jim",
                 "lastname": "Brown",
@@ -15,7 +15,7 @@
             }
         },
         {
-            "bookingid": 2,
+            "id": 2,
             "booking": {
                 "firstname": "John",
                 "lastname": "Doe",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "bookingid": 3,
+            "id": 3,
             "booking": {
                 "firstname": "Jane",
                 "lastname": "Smith",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "bookingid": 4,
+            "id": 4,
             "booking": {
                 "firstname": "Alice",
                 "lastname": "Johnson",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "bookingid": 5,
+            "id": 5,
             "booking": {
                 "firstname": "Bob",
                 "lastname": "Williams",
@@ -71,7 +71,7 @@
             }
         },
         {
-            "bookingid": 6,
+            "id": 6,
             "booking": {
                 "firstname": "Charlie",
                 "lastname": "Brown",
@@ -85,7 +85,7 @@
             }
         },
         {
-            "bookingid": 7,
+            "id": 7,
             "booking": {
                 "firstname": "David",
                 "lastname": "Wilson",
@@ -99,7 +99,7 @@
             }
         },
         {
-            "bookingid": 8,
+            "id": 8,
             "booking": {
                 "firstname": "Eve",
                 "lastname": "Davis",
@@ -113,7 +113,7 @@
             }
         },
         {
-            "bookingid": 9,
+            "id": 9,
             "booking": {
                 "firstname": "Frank",
                 "lastname": "Garcia",
@@ -127,7 +127,7 @@
             }
         },
         {
-            "bookingid": 10,
+            "id": 10,
             "booking": {
                 "firstname": "Grace",
                 "lastname": "Martinez",
@@ -141,7 +141,7 @@
             }
         },
         {
-            "bookingid": 9,
+            "id": 9,
             "booking": {
                 "firstname": "Frank",
                 "lastname": "Garcia",
@@ -155,7 +155,7 @@
             }
         },
         {
-            "bookingid": 10,
+            "id": 10,
             "booking": {
                 "firstname": "Grace",
                 "lastname": "Martinez",
