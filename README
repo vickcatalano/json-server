@@ -1,0 +1,13 @@
+# 📚 JSON Server - API Fake para Livros
+
+Este projeto utiliza o [JSON Server](https://github.com/typicode/json-server) para simular uma API RESTful de gerenciamento de livros. É ideal para testes de frontend, automação de testes ou prototipagem rápida sem necessidade de backend real.
+
+---
+
+## 🚀 Requisitos
+
+- Node.js instalado (recomendado: v14 ou superior)
+- JSON Server instalado globalmente:
+
+```bash
+npm install -g json-server
