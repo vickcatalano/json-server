@@ -139,34 +139,6 @@
                 },
                 "additionalneeds": "Pool"
             }
-        },
-        {
-            "id": 9,
-            "booking": {
-                "firstname": "Frank",
-                "lastname": "Garcia",
-                "totalprice": 999,
-                "depositpaid": true,
-                "bookingdates": {
-                    "checkin": "2026-01-01",
-                    "checkout": "2027-01-01"
-                },
-                "additionalneeds": "Spa"
-            }
-        },
-        {
-            "id": 10,
-            "booking": {
-                "firstname": "Grace",
-                "lastname": "Martinez",
-                "totalprice": 1010,
-                "depositpaid": false,
-                "bookingdates": {
-                    "checkin": "2027-01-01",
-                    "checkout": "2028-01-01"
-                },
-                "additionalneeds": "Pool"
-            }
         }
-    ]
+    ] 
 }
